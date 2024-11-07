@@ -60,9 +60,9 @@ This project aims to classify SMS messages as spam or ham (non-spam) using machi
     cd sms-spam-classification
    ```
 3. Install dependencies using pip:
-  ```bash
-    pip install -r requirements.txt
-  ```
+   ```bash
+      pip install -r requirements.txt
+   ```
 4. Ensure the following dependencies are included in your requirements.txt:
     - pandas
     - numpy
